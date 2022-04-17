@@ -48,3 +48,17 @@
     height: 3rem;
     
 }
+.div-categoria{
+    background-color:#DBDBDB; 
+    height: auto;
+    border-radius: 40px;
+    padding: 0!important ;
+   width: 14rem!important;
+   
+}
+
+.btn-confirmar{
+    position: fixed;
+    margin-top: 8rem;
+    margin-left: 2rem;
+}
